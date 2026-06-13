@@ -1,1 +1,0 @@
-# SyncScribe---Real-Time-Collaborative-Editor
